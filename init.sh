@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-apt install libcudart11.0
+# apt install libcudart11.0
 mkdir ~/.pip
 cp pip.conf ~/.pip/
 python3 -m pip install --upgrade pip
